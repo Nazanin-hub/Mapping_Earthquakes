@@ -7,4 +7,10 @@ Building insightful data visualizations with interactive features on earthquakes
 
 ## Resources
 
+Data Source: Earthquakes GeoJSON, Earthquakes above 4.5mag GeoJSON, Tectonic Plate GeoJSON
+
+Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, Leaflet 1.7.1, D3.js 6.2.0
+
+## Result
+
 
