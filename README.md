@@ -16,3 +16,5 @@ Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, Leaflet 1.7.1, D3.js 
 
 ![](https://github.com/Nazanin-hub/Mapping_Earthquakes/blob/Earthquake_Challenge/streets%20view.png)
 
+![](https://github.com/Nazanin-hub/Mapping_Earthquakes/blob/Earthquake_Challenge/satellite%20view.png)
+
