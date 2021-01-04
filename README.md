@@ -11,11 +11,18 @@ Data Source: Earthquakes GeoJSON, Earthquakes above 4.5mag GeoJSON, Tectonic Pla
 
 Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, Leaflet 1.7.1, D3.js 6.2.0
 
-## Result
+## Results
 
+### Streets View
 
 ![](https://github.com/Nazanin-hub/Mapping_Earthquakes/blob/Earthquake_Challenge/streets%20view.png)
 
+
+### Satellite View
+
 ![](https://github.com/Nazanin-hub/Mapping_Earthquakes/blob/Earthquake_Challenge/satellite%20view.png)
+
+
+### Dark View
 
 ![](https://github.com/Nazanin-hub/Mapping_Earthquakes/blob/Earthquake_Challenge/dark%20view.png)
